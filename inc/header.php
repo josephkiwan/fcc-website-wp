@@ -119,7 +119,7 @@
     <div id="banner" class="banner">
       <div class="bannerInvisibleButton"></div>
       <p class="bannerText">
-        Admission is free – please check our <a href="/visit-us/opening-hours" class="bannerLink">visiting hours </a>in advance for your visit to the Daoud Corm Exhibition
+        Admission is free – please check our <a href="visit-us.php" class="bannerLink">visiting hours </a>in advance for your visit to the Daoud Corm Exhibition
       </p>
       <div class="bannerButton" onclick="closeBanner()" style="">
         <div></div>
@@ -137,7 +137,7 @@
         <div class="boxRight"></div>
         <div class="menuTopContainer">
           <div class="logo">
-            <a href="/">
+            <a href="index.php">
               <img src="assets/images/logo.svg" alt="logo" width="171" height="27" />
             </a>
           </div>
@@ -145,53 +145,53 @@
             <div style="position:relative">
               <p class="menuTitle" onclick="onTitleClick(0)">The Foundation</p>
               <ul class="list listHide">
-                <li><a class="menuLink" href="/the-foundation.php?#about-us">About Us</a></li>
-                <li><a class="menuLink" href="/the-foundation.php?#our-mission">Our Mission</a></li>
-                <li><a class="menuLink" href="/the-foundation.php?#the-life-of-charles-corm">The Life of Charles Corm</a></li>
-                <li><a class="menuLink" href="/the-foundation.php?#the-corm-house">The Corm House</a></li>
-                <li><a class="menuLink" href="/the-foundation.php?#the-library-and-archives">The Library and Archives</a></li>
+                <li><a class="menuLink" href="the-foundation.php?#about-us">About Us</a></li>
+                <li><a class="menuLink" href="the-foundation.php?#our-mission">Our Mission</a></li>
+                <li><a class="menuLink" href="the-foundation.php?#the-life-of-charles-corm">The Life of Charles Corm</a></li>
+                <li><a class="menuLink" href="the-foundation.php?#the-corm-house">The Corm House</a></li>
+                <li><a class="menuLink" href="the-foundation.php?#the-library-and-archives">The Library and Archives</a></li>
               </ul>
             </div>
             <div style="position:relative">
               <p class="menuTitle" onclick="onTitleClick(1)">What's On</p>
               <ul class="list listHide">
-                <li><a class="menuLink" href="/whats-on.php?#exhibitions">Exhibitions</a></li>
-                <li><a class="menuLink" href="/whats-on.php?#at-the-foundation">At The Foundation</a></li>
-                <li><a class="menuLink" href="/whats-on.php?#current">Current</a></li>
-                <li><a class="menuLink" href="/whats-on.php?#off-site">Off-Site</a></li>
-                <li><a class="menuLink" href="/whats-on.php?#upcoming">Upcoming</a></li>
+                <li><a class="menuLink" href="whats-on.php?#exhibitions">Exhibitions</a></li>
+                <li><a class="menuLink" href="whats-on.php?#at-the-foundation">At The Foundation</a></li>
+                <li><a class="menuLink" href="whats-on.php?#current">Current</a></li>
+                <li><a class="menuLink" href="whats-on.php?#off-site">Off-Site</a></li>
+                <li><a class="menuLink" href="whats-on.php?#upcoming">Upcoming</a></li>
               </ul>
             </div>
             <div style="position:relative">
               <p class="menuTitle" onclick="onTitleClick(2)">Initiatives</p>
               <ul class="list listHide">
-                <li><a class="menuLink" href="/initiatives.php?#chapters">Chapters</a></li>
-                <li><a class="menuLink" href="/initiatives.php?#the-friends-of-the-trees-society">The Friends of the Trees Society</a></li>
-                <li><a class="menuLink" href="/initiatives.php?#the-phoenician-heritage-institute">The Phoenician Heritage Institute</a></li>
-                <li><a class="menuLink" href="/initiatives.php?#the-editions-of-la-revue-phenicienne">The Editions of La Revue Phénicienne</a></li>
-                <li><a class="menuLink" href="/initiatives.php?#the-lebanese-friendships">The Lebanese Friendships</a></li>
-                <li><a class="menuLink" href="/initiatives.php?#the-archives-of-our-future">The Archives Of Our Future</a></li>
+                <li><a class="menuLink" href="initiatives.php?#chapters">Chapters</a></li>
+                <li><a class="menuLink" href="initiatives.php?#the-friends-of-the-trees-society">The Friends of the Trees Society</a></li>
+                <li><a class="menuLink" href="initiatives.php?#the-phoenician-heritage-institute">The Phoenician Heritage Institute</a></li>
+                <li><a class="menuLink" href="initiatives.php?#the-editions-of-la-revue-phenicienne">The Editions of La Revue Phénicienne</a></li>
+                <li><a class="menuLink" href="initiatives.php?#the-lebanese-friendships">The Lebanese Friendships</a></li>
+                <li><a class="menuLink" href="initiatives.php?#the-archives-of-our-future">The Archives Of Our Future</a></li>
               </ul>
             </div>
             <div style="position:relative">
               <p class="menuTitle" onclick="onTitleClick(3)">Visit Us</p>
               <ul class="list listHide">
-                <li><a class="menuLink" href="/visit-us.php?#contact-us">Contact Us</a></li>
-                <li><a class="menuLink" href="/visit-us.php?#opening-hours">Opening Hours</a></li>
-                <li><a class="menuLink" href="/visit-us.php?#admission">Admission</a></li>
-                <li><a class="menuLink" href="/visit-us.php?#accessibility">Accessibility</a></li>
-                <li><a class="menuLink" href="/visit-us.php?#guided-tours">Guided Tours</a></li>
-                <li><a class="menuLink" href="/visit-us.php?#location">Location</a></li>
-                <li><a class="menuLink" href="/visit-us.php?#cafes-and-shops">Cafés &amp; Shops</a></li>
+                <li><a class="menuLink" href="visit-us.php?#contact-us">Contact Us</a></li>
+                <li><a class="menuLink" href="visit-us.php?#opening-hours">Opening Hours</a></li>
+                <li><a class="menuLink" href="visit-us.php?#admission">Admission</a></li>
+                <li><a class="menuLink" href="visit-us.php?#accessibility">Accessibility</a></li>
+                <li><a class="menuLink" href="visit-us.php?#guided-tours">Guided Tours</a></li>
+                <li><a class="menuLink" href="visit-us.php?#location">Location</a></li>
+                <li><a class="menuLink" href="visit-us.php?#cafes-and-shops">Cafés &amp; Shops</a></li>
                 
               </ul>
             </div>
             <div style="position:relative">
               <p class="menuTitle" onclick="onTitleClick(4)">Support</p>
               <ul class="list listHide">
-                <li><a class="menuLink" href="/support.php?#donate-today">Donate Today</a></li>
-                <li><a class="menuLink" href="/support.php?#work-with-us">Work With Us</a></li>
-                <li><a class="menuLink" href="/support.php?#volunteer">Volunteer</a></li>
+                <li><a class="menuLink" href="support.php?#donate-today">Donate Today</a></li>
+                <li><a class="menuLink" href="support.php?#work-with-us">Work With Us</a></li>
+                <li><a class="menuLink" href="support.php?#volunteer">Volunteer</a></li>
               </ul>
             </div>
 
