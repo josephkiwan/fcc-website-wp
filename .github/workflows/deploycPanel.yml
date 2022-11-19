@@ -2,7 +2,7 @@ name: Deploy website to cPanel
 on:
   push:
     branches:
-      - main
+      - staging
 jobs:
   FTP-Deploy-Action:
     name: FTP-Deploy-Action
