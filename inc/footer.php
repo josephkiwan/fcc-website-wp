@@ -12,7 +12,7 @@
                     <img src="assets/images/fb.svg" /> 
                     <img src="assets/images/twitter.svg" />
                     <div class="pt-5 footer-small">
-                        Terms &amp; Conditions<br />
+                        <a href="">Terms &amp; Conditions</a><br />
                         &copy; <?php echo date('Y'); ?> Fondation Charles Corm, Lebanon</div>
                 </div>
             </div>
