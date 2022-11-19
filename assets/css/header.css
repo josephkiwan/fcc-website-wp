@@ -3,6 +3,7 @@
   position: -webkit-sticky; /* Safari */
   position: sticky;
   top: 0;
+  z-index: 999; /* added */
 }
 
 .mobile .top {
@@ -43,7 +44,7 @@
   align-items: center;
   width: 100%;
   position: absolute;
-  top: 150px;
+  top: 134px; /* changed */
   z-index: 1;
   height: 0;
   background: white;
@@ -93,7 +94,7 @@
   cursor: pointer;
   transition: 0.3s all;
   margin-left: auto;
-  margin-right: 16px;
+  margin-right: 30px; /* changed */
 }
 
 .mobile .bar {
