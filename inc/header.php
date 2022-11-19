@@ -1,5 +1,5 @@
   <!-- header mobile -->
-  <div style="position:sticky;top: 0;" class="mobile">
+  <div style="position:sticky;top: 0;z-index:99999;" class="mobile">
     <div id="banner" class="banner">
       <div class="bannerInvisibleButton"></div>
       <p class="bannerText">
