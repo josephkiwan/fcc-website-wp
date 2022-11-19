@@ -12,8 +12,8 @@
                     <img src="assets/images/fb.svg" /> 
                     <img src="assets/images/twitter.svg" />
                     <div class="pt-5 footer-small">
-                        Terms & Conditions<br />
-                        © <?php echo date('Y'); ?> Fondation Charles Corm, Lebanon</div>
+                        Terms &amp; Conditions<br />
+                        &copy; <?php echo date('Y'); ?> Fondation Charles Corm, Lebanon</div>
                 </div>
             </div>
         </div>
