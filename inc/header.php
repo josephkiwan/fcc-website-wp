@@ -4,7 +4,7 @@
       <div class="bannerInvisibleButton"></div>
       <p class="bannerText">
         Admission is free - please check our <a href="/visit-us/opening-hours" class="bannerLink">visiting hours </a>in
-        <br />advance for your visit to the Daoud Corm Exhibition
+        <br />advance for your visit to the Daoud Corm Exhibition.
       </p>
       <div class="bannerButton" onclick="closeBanner()" style="">
         <div></div>
